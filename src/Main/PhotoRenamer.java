@@ -1,6 +1,6 @@
-package photo_renamer;
-import javax.swing.JFrame;
+package Main;
 
+import javax.swing.JFrame;
 import FrontEnd.ImageLister;
 
 public class PhotoRenamer {

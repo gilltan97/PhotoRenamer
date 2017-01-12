@@ -1,6 +1,6 @@
 package FrontEnd;
 
-import photo_renamer.PhotoRenamer;
+import Main.PhotoRenamer;
 
 import java.awt.Font;
 import javax.swing.JFrame;

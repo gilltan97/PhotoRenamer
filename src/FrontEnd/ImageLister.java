@@ -24,7 +24,7 @@ import javax.swing.SwingConstants;
 
 import BackEnd.ImageFileLister;
 import BackEnd.ImageManager;
-import photo_renamer.PhotoRenamer;
+import Main.PhotoRenamer;
 
 public class ImageLister {
 	
